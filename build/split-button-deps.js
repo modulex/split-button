@@ -1,0 +1,1 @@
+modulex.config("requires",{"split-button":["component/container","button","menubutton"]});

@@ -1,0 +1,28 @@
+{
+    "name": "modulex-split-button",
+    "author": "yiminghe <yiminghe@gmail.com>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/kissyteam/split-button.git"
+    },
+    "ignore": [
+        "**/*",
+        "!build/**/*",
+        "!lib/**/*",
+        "!meta/**/*",
+        "!index.js"
+    ],
+    "dependencies": {
+        "modulex": "modulex#master",
+        "modulex-feature": "modulex-feature#master",
+        "modulex-ua": "modulex-ua#master",
+        "modulex-component": "modulex-component#master",
+        "modulex-button": "modulex-button#master",
+        "modulex-menubutton": "modulex-menubutton#master"
+    },
+    "devDependencies": {
+        "modulex-menu": "modulex-menu#master",
+        "modulex-css": "modulex-css#master"
+    }
+}
