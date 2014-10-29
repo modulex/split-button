@@ -1,6 +1,6 @@
 # split-button
 
-
+ui split-button
 
 [![split-button](https://nodei.co/npm/modulex-split-button.png)](https://npmjs.org/package/modulex-split-button)
 [![NPM downloads](http://img.shields.io/npm/dm/modulex-split-button.svg)](https://npmjs.org/package/modulex-split-button)
